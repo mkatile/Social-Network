@@ -1,4 +1,4 @@
-# Social-Network
+# Social-Network-API
 
 
 ## Description
